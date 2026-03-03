@@ -24,3 +24,9 @@ Access permissions were reviewed and configured at the bucket level following AW
 
 The setup demonstrates a working S3 storage configuration with object upload and access management successfully implemented.
 
+<img width="1918" height="512" alt="bucket-created" src="https://github.com/user-attachments/assets/b96c87ec-54f8-4e96-84cf-4f09ec8b1a2e" />
+
+<img width="1902" height="764" alt="objects-uploaded" src="https://github.com/user-attachments/assets/d160a2e4-a13c-4bbf-be57-6037f800b233" />
+
+<img width="1541" height="512" alt="permissions" src="https://github.com/user-attachments/assets/c6cf3bac-9f49-4c32-b0d6-8dd33e27e031" />
+
